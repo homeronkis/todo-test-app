@@ -39,6 +39,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/vuetify',
   ],
   styleResources: {
     sass: ['./assets/sass/reset.sass', './assets/sass/variables.sass']

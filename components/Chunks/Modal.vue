@@ -112,7 +112,6 @@ export default {
         align-items: center
         margin-bottom: 10px
         grid-column-gap: 10px
-        .title-input
 
         .pick-date
           display: flex

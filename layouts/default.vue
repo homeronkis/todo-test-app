@@ -1,7 +1,9 @@
 <template>
   <div class="wrapper">
     <ChunksHeader />
+    <v-app>
     <Nuxt />
+    </v-app>
 <!--    <ChunksFooter />-->
   </div>
 </template>

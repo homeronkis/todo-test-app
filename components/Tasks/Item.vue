@@ -156,10 +156,7 @@ export default {
         color: $lightGreyTxt
         border-bottom: 1px solid #4F4F4F
         padding-bottom: 2px
-    .remove
-      display: flex
-      justify-content: center
-      align-items: center
+
     .status
       position: relative
       z-index: 1
@@ -231,7 +228,6 @@ export default {
         &:first-letter
           text-transform: uppercase
 
-    .remove
 
   .accordion-body
     padding: 10px 30px
